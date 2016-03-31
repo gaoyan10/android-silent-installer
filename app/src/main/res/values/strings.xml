@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSilentInstaller</string>
+    <string name="accessibility_service_description">智能安装Apk测试软件,智能安装服务，无需用户的任何操作就可以自动安装程序</string>
+</resources>
